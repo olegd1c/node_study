@@ -1,0 +1,15 @@
+{
+  "name": "node-copy-files",
+  "version": "1.0.0",
+  "description": "copy files from path",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "devapp.in.ua",
+  "license": "ISC",
+  "dependencies": {
+    "copy-dir": "^0.3.0",
+    "yargs": "^4.7.1"
+  }
+}
