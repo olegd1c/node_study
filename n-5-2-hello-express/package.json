@@ -1,16 +1,14 @@
 {
-  "name": "node-copy-files",
+  "name": "node-web-server",
   "version": "1.0.0",
-  "description": "copy files from path",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "devapp.in.ua",
+  "author": "",
   "license": "ISC",
   "dependencies": {
-    "copy-dir": "^0.3.0",
-    "rmdir": "^1.2.0",
-    "yargs": "^4.7.1"
+    "express": "^4.14.0"
   }
 }
